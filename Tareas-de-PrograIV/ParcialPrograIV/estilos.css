@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #2a2929;
+    color: #fff;
+    padding: 1em;
+}
+#info{
+    text-align: center;
+}
+footer {
+    background-color: #010926;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.boton{
+    width: 150px;
+    height: 50px;
+    background-color: #014b4a;
+    border: 1px solid #000000;
+    border-radius: 1px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
